@@ -118,3 +118,9 @@ submission_writeup.md Hackathon submission writeup
 requirements.txt      Python dependencies
 Status
 Hackathon build in progress.
+
+## Links
+
+- GitHub Repository: https://github.com/Nine1Eight/gemma4good-sigilagi
+- Local Demo: http://127.0.0.1:7861
+- Hackathon Target: Gemma 4 Good Hackathon
