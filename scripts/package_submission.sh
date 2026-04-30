@@ -22,11 +22,14 @@ cp -r \
   docs \
   examples \
   scripts \
+  hf_space \
   README.md \
   README_HF_SPACE.md \
   architecture.md \
   demo_script.md \
   submission_writeup.md \
+  KAGGLE_SUBMISSION.md \
+  FINAL_SUBMISSION_CHECKLIST.md \
   requirements.txt \
   LICENSE \
   .gitignore \
@@ -47,4 +50,4 @@ echo "$ZIP_PATH"
 
 echo
 echo "[Package contents]"
-unzip -l "$ZIP_PATH" | head -80
+unzip -l "$ZIP_PATH" | head -120
