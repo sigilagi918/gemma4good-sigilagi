@@ -124,3 +124,7 @@ Hackathon build in progress.
 - GitHub Repository: https://github.com/Nine1Eight/gemma4good-sigilagi
 - Local Demo: http://127.0.0.1:7861
 - Hackathon Target: Gemma 4 Good Hackathon
+
+## Live Demo
+
+- Hugging Face Space: https://huggingface.co/spaces/Nine1Eight/gemma4good-sigilagi
