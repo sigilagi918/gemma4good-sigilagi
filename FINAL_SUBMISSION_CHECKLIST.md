@@ -66,3 +66,7 @@ human review
 structured reasoning
 privacy-sensitive flag
 high-review flag
+
+## Final Submitted Kaggle Writeup
+
+https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/sigilagi-object-to-glyph-detection-for-symbolic
